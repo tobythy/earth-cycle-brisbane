@@ -17,7 +17,7 @@ $(document).ready(function() {
     loop:true,
     loopedSlides: 6, //looped slides should be the same
     autoplay: {
-        delay: 2500,
+        delay: 4000,
         disableOnInteraction: false,
     },
     navigation: {

@@ -180,8 +180,9 @@ a{
 
 #intro {
 	color:black;
-	text-align: center;
+	text-align: left;
 }
+
 
 .video iframe{
 	width: 100%;
