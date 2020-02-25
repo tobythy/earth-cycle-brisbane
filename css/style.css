@@ -2,7 +2,7 @@
 /* Globle Setting */
 
 * {
-	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-family: "Roboto", "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 	line-height: 1.5;
 	margin: 0;
 	box-sizing: border-box;
@@ -181,6 +181,7 @@ a{
 #intro {
 	color:black;
 	text-align: left;
+	font-family: 'Roboto';
 }
 
 
