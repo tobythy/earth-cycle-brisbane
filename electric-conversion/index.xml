@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electric Conversion on Earthcycles Brisbane</title>
-    <link>https://earthcycles.com.au/electric-conversion/</link>
+    <link>https://tobythy.github.io/earth-cycle-brisbane/electric-conversion/</link>
     <description>Recent content in Electric Conversion on Earthcycles Brisbane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://earthcycles.com.au/electric-conversion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tobythy.github.io/earth-cycle-brisbane/electric-conversion/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
